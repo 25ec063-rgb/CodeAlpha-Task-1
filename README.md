@@ -1,4 +1,5 @@
 📱 Random Quote Generator App (Android)
+
 An Android application that displays motivational quotes randomly to inspire users. The app provides a clean and simple interface where users can generate new quotes with a single tap.
 
 🚀 Features
